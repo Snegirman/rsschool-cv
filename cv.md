@@ -16,3 +16,6 @@
 * ПЦС Иннополис
 * Jet Brains Academy
 * ГНИВЦ
+
+### My english skills
+[B2 - Upper Intermediate](https://www.efset.org/cert/GLtH8g)
